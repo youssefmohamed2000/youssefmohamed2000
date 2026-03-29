@@ -2,8 +2,6 @@
 
 ### Backend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefmohamed2000&label=Profile views&color=0e75b6&style=flat" alt="youssefmohamed2000" /> </p>
-
 - 👯 I'm looking to collaborate on **open source project**
 
 - 💬 Ask me about **php, laravel and web development**
